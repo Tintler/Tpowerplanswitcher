@@ -1,4 +1,9 @@
-# TPowerPlanSwitcher
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo-light.svg" alt="TPowerPlanSwitcher" width="420">
+  </picture>
+</div>
 
 A tiny Windows system tray app that switches between two power plans with a single click.
 
